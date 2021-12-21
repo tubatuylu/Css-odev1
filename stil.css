@@ -1,0 +1,49 @@
+.list-one{
+    list-style-position:inside;
+    text-align: center;
+    font-size:28px;
+    font-family: 'Lobster', cursive;
+    color:orangered
+}
+body{
+    background-color:rgb(245, 223, 243);
+
+}
+
+#mainpage{
+    font-family: 'Comfortaa', cursive;
+text-align: center;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+text-align: center;
+}
+
+#product{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+
+}
+.list-two{
+    font-family: 'Teko', sans-serif;
+    font-size:25px;
+    text-align: center;
+    list-style-position:inside;
+}
+.orderedlist{
+    text-align: center;
+    font-size:25px;
+}
+
+.margin{
+    margin: 15px;
+    }
+
+.listinside{
+    list-style-position:inside;
+
+}
+.price{
+    text-size: 30px;
+    font-family: monospace;
+}
